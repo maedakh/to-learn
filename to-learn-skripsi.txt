@@ -1,4 +1,8 @@
+Must learn
 -Structure Data
 -Ai
+  ^KNN
+   Naive Bayes
 -Find Data
 -Front End
+  ^Vue JS
