@@ -2,7 +2,7 @@ Must learn
 -Structure Data
 -Ai
   ^KNN
-   Naive Bayes
+  ^Fuzzy
 -Find Data
 -Front End
   ^Vue JS
