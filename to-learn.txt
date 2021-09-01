@@ -2,3 +2,4 @@ Things i want to learn in programming :
 -learn fornt end (vue js)
 -learn github
 -learn python
+-learn jav
