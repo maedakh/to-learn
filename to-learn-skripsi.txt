@@ -1,6 +1,8 @@
+Must learn
 -Structure Data
 -Ai
   ^KNN
   ^Fuzzy
+-Find Data
 -Front End
-  ^Bootstrap
+  ^Vue JS
