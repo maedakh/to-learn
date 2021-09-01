@@ -1,4 +1,6 @@
 -Structure Data
 -Ai
--Find Data
+  ^KNN
+  ^Fuzzy
 -Front End
+  ^Bootstrap
